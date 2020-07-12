@@ -49,7 +49,7 @@
 - *Yuki was built using React, Flask, Amazon RDS, Tableau Online, Docker, and the project was deployed on AWS.*
 
 #### **Twitter clone** 
-> React, Node, MongoDB, REST API design, system design, cloud deployment
+> React, Node, MongoDB, REST API design, Kafka, system design, cloud deployment
 - *Used React, Node, Kafka, and MongoDB to build a clone of Twitter as a class project with 4 other team members.*
 - *Was primarily responsible for frontend development of profile, tweets, home feed, lists, login, and signup in React.*
 
@@ -64,16 +64,16 @@
 - *Worked on pre-processing, feature engineering, and model development to be able to predict prices of various types of rental options.*
 
 ## 🛠 Skills 
-- Languages: Java, JavaScript, C++, Swift, and Python.
+- Languages: Java, JavaScript, C++, and Swift.
 - Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Bootstrap, Figma, and Enzyme.
 - Databases: MySQL and MongoDB Atlas.
-- AWS: EC2, CloudWatch, Load Balancer, Auto Scaling, Kafka, and Docker.
+- AWS: EC2, CloudWatch, Load Balancer, Auto Scaling, and Docker.
 - General Skills: Agile, software design patterns, Linux, Git, axios, REST API, gRPC, Protocol Buffers, code reviews, and unit testing.
 
 ## 📚 Coursework
 - Specialization
   - Machine Learning (Big Data and Information Security)
-  - Distributed Systems
+  - Enterprise Distributed Systems
   - Cloud Technologies
   - Enterprise Application Development
   - Enterprise Software Platforms
