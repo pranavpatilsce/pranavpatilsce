@@ -1,14 +1,12 @@
-# Hi there 👋
-
-## Pranav's resume
+## Resume 👋
 > Software Engineering student at SJSU | ex Twitter & Proofpoint | Full stack web development, scalable AWS deployments, APIs, and some iOS and infrastructure experience
 
-### ☎️ Contact Information
+## ☎️ Contact Information
 - 📧 ompranav97@gmail.com
 - 🐦 [Twitter](https://www.twitter.com/pranavpatilsf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranavrpatil/)
 
-### 💻 Work Experience
+## 💻 Work Experience
 #### **Twitter Inc** 
 > Partner Engineering Intern Summer 2019
 - *Built a dashboard to visualize Ads API integration and engagement across 700+ API partners in 4 API product categories.*
@@ -27,7 +25,7 @@
 > Teacher Assistant Summer 2017
 - *Led embedded C programming tutoring sessions covering data structures, algorithms, memory, and state machines.*
 
-### 👨‍💻 Projects
+## 👨‍💻 Projects
 #### **Mobile Testing as a Service (SaaS) Application** 
 > React, Node, MongoDB, frontend architecture, system design, cloud deployment
 - *Built the React frontend of various pages (landing, login, homepage, etc) and set the frontend architecture of the project.*
@@ -54,19 +52,19 @@
 - *Worked on organization profile and comments in Swift, contribute to application design, and did user research for the project.*
 - *Cared was built to help people with mental health issues express themselves in an inclusive community.*
 
-#### **Airbnb Price Prediction** 
+#### **Airbnb Price Prediction - Machine Learning** 
 > Machine learning, React, Flask, cloud deployment
 - *Used Multiple Linear Regression and built with React, Flask, and AWS to predict prices of Airbnb rentals in NYC.*
 - *Worked on pre-processing, feature engineering, and model development to be able to predict prices of various types of rental options.*
 
-### 🛠 Skills 
+## 🛠 Skills 
 - Languages: Java, JavaScript, C++, Swift, and Python.
 - Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Bootstrap, Figma, and Enzyme.
 - Databases: MySQL and MongoDB Atlas.
 - AWS: EC2, CloudWatch, Load Balancer, Auto Scaling, Kafka, and Docker.
 - General Skills: Agile, software design patterns, Linux, Git, axios, REST API, gRPC, Protocol Buffers, code reviews, and unit testing.
 
-### 📚 Coursework
+## 📚 Coursework
 - Specialization
   - Machine Learning (Big Data and Information Security)
   - Distributed Systems
@@ -83,7 +81,7 @@
   - Computer Networks
   - Object Oriented Programming
 
-### 🏫 Education
+## 🏫 Education
 #### **M.S. Software Engineering**
 - *San Jose State University, San Jose, CA*
 - *August 2021 Expected Graduation*
