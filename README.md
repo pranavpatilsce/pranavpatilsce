@@ -49,7 +49,7 @@
 
 #### **Cared - iOS application** 
 > iOS, Firebase, system design
-- *Worked on organization profile and comments in Swift, contribute to application design, and did user research for the project.*
+- *Worked on organization profile and comments in Swift, contributed to application design, and did user research for the project.*
 - *Cared was built to help people with mental health issues express themselves in an inclusive community.*
 
 #### **Airbnb Price Prediction - Machine Learning** 
