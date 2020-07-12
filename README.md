@@ -3,8 +3,14 @@
 
 ## ☎️ Contact Information
 - 📧 ompranav97@gmail.com
-- 🐦 [Twitter](https://www.twitter.com/pranavpatilsf)
+- 🐦 [Twitter](https://www.twitter.com/pranavpatilsf) 
+  - The vibe is contrarian and technology industry focused
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranavrpatil/)
+
+## 🌎 Personal
+- Outdoors: running & hiking.
+- Indoors: reading about shifting trends in venture capital, technology, and geopolitics.
+- Podcasts: [All-In with Chamath, Jason, Sacks & Friedberg](https://podcasts.apple.com/us/podcast/all-in-with-chamath-palihapitiya-jason-calacanis/id1502871393).
 
 ## 💻 Work Experience
 #### **Twitter Inc** 
