@@ -1,5 +1,5 @@
 ## Resume 👋
-> Software Engineering student at SJSU | ex Twitter & Proofpoint | Full stack web development, scalable AWS deployments, APIs, and some iOS and infrastructure experience
+> Software Engineering student at SJSU | ex Twitter & Proofpoint | Full stack web development, scalable AWS deployments, APIs, system design, and some iOS experience
 
 ## ☎️ Contact Information
 - 📧 ompranav97@gmail.com
