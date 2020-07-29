@@ -10,7 +10,7 @@
 ## 🌎 Personal
 - Outdoors: running & hiking.
 - Indoors: reading about shifting trends in venture capital, technology, and geopolitics.
-- Favorite Podcast: [All-In with Chamath, Jason, Sacks & Friedberg](https://podcasts.apple.com/us/podcast/all-in-with-chamath-palihapitiya-jason-calacanis/id1502871393).
+- Favorite podcast: [All-In with Chamath, Jason, Sacks & Friedberg](https://podcasts.apple.com/us/podcast/all-in-with-chamath-palihapitiya-jason-calacanis/id1502871393).
 
 ## 💻 Work Experience
 #### **Twitter Inc** 
