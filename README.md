@@ -3,8 +3,6 @@
 
 ## ☎️ Contact Information
 - 📧 ompranav97@gmail.com
-- 🐦 [Twitter](https://www.twitter.com/pranavpatilsf) 
-  - The vibe is contrarian and technology industry focused
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranavrpatil/)
 
 ## 🌎 Personal
