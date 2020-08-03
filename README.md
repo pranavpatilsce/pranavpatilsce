@@ -32,6 +32,7 @@
 ## 👨‍💻 Projects
 #### **Mobile Testing as a Service (SaaS) Application** 
 > React, Node, MongoDB, frontend architecture, system design, cloud deployment
+- *Built an iOS and Android testing and emulation service using AWS Device Farm and Genymotion with a team of 3 students.*
 - *Built the React frontend of various pages (landing, login, homepage, etc) and set the frontend architecture of the project.*
 - *Wrote APIs in Node.js for the Bug Report feature and helped integrate React components into the larger project.*
 
@@ -65,8 +66,8 @@
 - Languages: Java, JavaScript, C++, and Swift.
 - Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Bootstrap, Figma, and Enzyme.
 - Databases: MySQL and MongoDB Atlas.
-- AWS: EC2, CloudWatch, Load Balancer, Auto Scaling, and Docker.
-- General Skills: Agile, software design patterns, Linux, Git, axios, REST API, gRPC, Protocol Buffers, code reviews, and unit testing.
+- AWS: EC2, CloudWatch, load balancer, auto scaling, connection pooling, Kafka, and Docker.
+- General Skills: Agile, software design patterns, Linux, Git, axios, REST API, gRPC, Protocol Buffers, web sessions, code reviews, and unit testing.
 
 ## 📚 Coursework
 - Specialization
