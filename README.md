@@ -63,11 +63,11 @@
 - *Worked on pre-processing, feature engineering, and model development to be able to predict prices of various types of rental options.*
 
 ## 🛠 Skills 
-- Languages: Java, JavaScript, C++, and Swift.
+- Languages: Java, JavaScript, and C++.
 - Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Bootstrap, Figma, and Enzyme.
 - Databases: MySQL and MongoDB Atlas.
 - AWS: EC2, CloudWatch, load balancer, auto scaling, connection pooling, Kafka, and Docker.
-- General Skills: Agile, software design patterns, Linux, Git, axios, REST API, gRPC, Protocol Buffers, web sessions, code reviews, and unit testing.
+- Other skills: Agile, software design patterns, Swift, Linux, Git, axios, REST API, gRPC, Protocol Buffers, web sessions, code reviews, and unit testing.
 
 ## 📚 Coursework
 - Specialization
