@@ -38,7 +38,7 @@
 
 #### **Distributed File Storage System P2P Overlay Network** 
 > gRPC, Protocol Buffers, Flask, system design, cloud deployment
-- *Researched how to build dynamically balanced overlay networks and understood how to use Protobuf and gRPC to build it.*
+- *Researched and built dynamically balanced overlay networks with Flask and gRPC and deployed it on AWS.*
 - *Built and tested Proto3 files to transmit audio, video, image, and documents on the network.*
 - *Worked with a student to build the UI and gRPC APIs in Flask to upload, search, and download files across the network.*
 
