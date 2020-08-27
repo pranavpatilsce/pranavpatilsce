@@ -45,8 +45,8 @@
 
 #### **Yuki Business Sarcasm Analysis - Machine Learning** 
 > React, Flask, RNN-LSTM, Keras, Firebase, system design, Docker, cloud deployment
-- *Used RNN-LSTM for sarcasm analysis of a business topic and showed Name Entity Recognition analysis of the sarcasm.*
-- *Yuki was built using React, Flask, Amazon RDS, Tableau Online, Docker, and the project was deployed on AWS.*
+- *Built the React frontend and Flask APIs to process and run RNN LSTM network and deployed the project with Docker to AWS.*
+- *Used LSTM for sarcasm detection of topics using Twitter API and showed NER analysis of the sarcasm in Tableau Online.*
 
 #### **Twitter clone** 
 > React, Node, MongoDB, REST API design, Kafka, system design, cloud deployment
