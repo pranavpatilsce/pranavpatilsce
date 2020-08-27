@@ -1,5 +1,5 @@
 ## Resume 👋
-> Software Engineering student at SJSU with experience in full stack web development, backend engineering, scalable deployments, APIs, system design, and iOS (1 project).
+> Software Engineering student at SJSU with experience in full stack web development, backend engineering, scalable deployments, APIs, system design, and Swift programming (1 project).
 > Previously interned at Twitter & Proofpoint.
 
 ## ☎️ Contact Information
