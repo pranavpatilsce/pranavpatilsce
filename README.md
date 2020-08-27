@@ -67,7 +67,7 @@
 - Languages: Java, JavaScript, and C++.
 - Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Napa.js, Bootstrap, Figma, and Enzyme.
 - Databases: MySQL and MongoDB Atlas.
-- AWS deployment: EC2, CloudWatch, load balancer, auto scaling, Kafka, and Docker.
+- AWS deployment: EC2, CloudWatch, load balancer, auto scaling, microservices, Kafka, and Docker.
 - Other skills: Agile, software design patterns, Swift, Linux, Git, axios, REST API, gRPC, Protocol Buffers, WebSockets, session management, multithreading, code reviews, JUnit, and unit testing.
 
 ## 📚 Coursework
