@@ -90,7 +90,7 @@
 ## 🏫 Education
 #### **M.S. Software Engineering**
 - *San Jose State University, San Jose, CA*
-- *August 2021 Expected Graduation*
+- *Summer 2021 Expected Graduation*
 
 #### **B.S. Computer Engineering**
 - *San Jose State University, San Jose, CA*
