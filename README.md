@@ -13,7 +13,7 @@
 
 ## 💻 Work Experience
 #### **Twitter Inc** 
-> Partner Engineering Intern Summer 2019
+> Ads API Partner Engineering Intern Summer 2019
 - *Built a dashboard to visualize Ads API integration and engagement across 700+ API partners in 4 API product categories.*
 - *Analyzed 1TB+ of Ads API endpoint data in order to increase visibility in Twitter’s API integrator behavior and activity.*
 - *Defined Ads API milestone framework covering Analytics, Audiences, Campaign Management, and Creatives API products.*
