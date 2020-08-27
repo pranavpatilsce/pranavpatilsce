@@ -1,5 +1,5 @@
 ## Resume 👋
-> Software Engineering student at SJSU | ex Twitter & Proofpoint | Full stack web development, scalable AWS deployments, APIs, system design, and some iOS experience
+> Software Engineering student at SJSU | ex Twitter & Proofpoint | Full stack web development, scalable deployments, APIs, system design, and some iOS experience.
 
 ## ☎️ Contact Information
 - 📧 ompranav97@gmail.com
@@ -64,10 +64,10 @@
 
 ## 🛠 Skills 
 - Languages: Java, JavaScript, and C++.
-- Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Bootstrap, Figma, and Enzyme.
+- Web development: HTML, CSS, Node.js, React.js, Redux, Flask, Napa.js, Bootstrap, Figma, and Enzyme.
 - Databases: MySQL and MongoDB Atlas.
 - AWS deployment: EC2, CloudWatch, load balancer, auto scaling, Kafka, and Docker.
-- Other skills: Agile, software design patterns, Swift, Linux, Git, axios, REST API, gRPC, Protocol Buffers, web sessions, connection pooling, code reviews, and unit testing.
+- Other skills: Agile, software design patterns, Swift, Linux, Git, axios, REST API, gRPC, Protocol Buffers, WebSockets, session management, multithreading, code reviews, JUnit, and unit testing.
 
 ## 📚 Coursework
 - Specialization
